@@ -37,7 +37,7 @@ Information on university resources, including libraries, counseling services, a
 
 ### Getting a Taste of Our Research
 
-Start familiarizing yourself with our research tools and resources [here](/docs/research/_index/). Additionally, essential reading materials to get you up to speed with ongoing research and methodologies in our group can be found in the [Papers & Journal Club](/pubs/).
+Start familiarizing yourself with our research tools and resources [here](/docs/research/). Additionally, essential reading materials to get you up to speed with ongoing research and methodologies in our group can be found in the [Papers & Journal Club](/pubs/).
 
 {{% /steps %}}
 
