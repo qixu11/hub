@@ -4,33 +4,48 @@ date: 2024-02-17
 weight: 1
 ---
 
-## Quick Start from Template
+## New Member Onboarding Guide
+
+This guide is designed to help you get started with our group, providing essential information on our lab philosophy, tools, and resources. We are excited to have you join us and look forward to the unique contributions you will bring to our research lab.
+
+To help you settle in, follow this onboarding checklist:
 
 {{% steps %}}
 
-### Initialize a new site
+### Getting to Know our People
 
-[Click to copy the template on GitHub](https://github.com/new?template_name=theme-documentation&template_owner=HugoBlox)
+To learn more about the amazing team members you'll be working with, visit the [People](/people/) on our website.
 
-### Configure your new site
+### Seting Up Workstation
 
-[Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
+Every lab member is provided with a laptop to support their work and educational responsibilities. Please inform us of your preference for your desired operating system (Windows, macOS, or Linux). Remember that this computer is university property, issued to you for professional and educational use. When your affiliation with the lab concludes, you will need to return the computer to the lab.
 
-### Add your content
+### Setting Up Lab Collaboration Platforms
 
-[Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
+   - **Asana**: Set up your account on Asana by following the [Asana Setup Guide](/docs/research/asana/).
+   - **GitHub**: Join the lab's GitHub group by following the [GitHub Setup Guide](/docs/research/git_github/). Please take time to read the [SOP for the Lab GitHub](/docs/research/git_github/sop_github/). 
+   - **HiPerGator**: Set up access to the university's cluster by following the [HiPerGator Setup Guide](/docs/research/hipergator/). Please take time to read the [SOP for the HiPerGator](/docs/research/hipergator/sop_hipergator/). 
+   - **Slack**: Join the lab's Slack channel and configure notifications to stay updated on lab activities.
+   - **Teams**: Join the lab's Teams workspace and ensure you are added to all relevant groups and projects.
 
-### Publish your site
 
-[Easily publish your site for free with GitHub Pages](https://docs.hugoblox.com/tutorial/blog/)
+### Checking Out Our Campus Resources
+
+Information on university resources, including libraries, counseling services, and more, can be found on the [Campus Resource](/docs/campus_life/) page.
+
+
+
+### Getting a Taste of Our Research
+
+Start familiarizing yourself with our research tools and resources [here](/docs/research/_index/). Additionally, essential reading materials to get you up to speed with ongoing research and methodologies in our group can be found in the [Papers & Journal Club](/pubs/).
 
 {{% /steps %}}
 
 ## Next
 
-Let's customize your new site:
+Let's dive in now:
 
 {{< cards >}}
-  {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
-  {{< card url="../guide/configuration" title="Configuration" icon="adjustments-vertical" >}}
+  {{< card url="/docs/research/" title="Research Tools" icon="beaker" >}}
+  {{< card url="/docs/campus_life/" title="Campus Resources" icon="building-library">}}
 {{< /cards >}}

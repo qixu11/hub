@@ -13,9 +13,9 @@ marketing:
   seo:
     site_type: Project
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Gator-AIM'
+    description: 'A biomedical informatics lab at HOBI, University of Florida'
+    twitter: ''
   analytics:
     google_analytics: ''
     google_tag_manager: ''
@@ -28,6 +28,8 @@ marketing:
     google: ''
     baidu: ''
 
+
+
 # Site header
 header:
   navbar:
@@ -36,25 +38,25 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: ""
+      text: "GATOR-AIM"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/details/docs/"
-    show_search: true
+      filename: ""
+#    button:
+#      enable: true
+#      text: "Get Started"
+#      url: "https://hugoblox.com/templates/details/docs/"
+    show_search: false
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company. This work is licensed under {license}'
+    notice: '© {year} Gator-AIM Team. This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      allow_derivatives: true
+      share_alike: false
+      allow_commercial: true
 
 # Localization
 locale:

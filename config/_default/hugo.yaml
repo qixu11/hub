@@ -19,19 +19,19 @@ cascade:
     # Hide date from Next In Series
     show_date: false
     # Show date modified at end of content
-    show_date_updated: true
-  # Blog post options
+    show_date_updated: false
+  # People folder options
   - _target:
-      path: /blog/**
+      path: /people/**
       kind: page
-    pager: true
+    pager: false
     editable: true
-    hide_date: false
-    show_date_updated: true
-    reading_time: true
+    hide_date: true
+    show_date_updated: false
+    reading_time: false
     commentable: true
     show_related: true
-    share: true
+    share: false
     # Just use Breadcrumb for navigation on blog post pages?
     show_breadcrumb: false
     header:

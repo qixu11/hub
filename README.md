@@ -1,32 +1,44 @@
-# [Hugo Docs Theme](https://github.com/HugoBlox/theme-documentation)
+# Gator-AIM Lab Repository
 
-[![Screenshot](https://raw.githubusercontent.com/HugoBlox/theme-documentation/main/.github/preview.png)](https://hugoblox.com/templates/details/docs/)
+Welcome to the official GitHub repository of the Gator-AIM Lab. This repository serves as a central hub for collaboratively managing and documenting a wide range of lab resources. Here, we cover everything from research tools like version control systems and high-performance computing, to the ongoing contributions of our lab members and updates on our latest research results.
 
-The Hugo **Documentation Template** empowers with everything you need to build a beautiful documentation website, including a customizable block-based homepage and blog. It's ultra-fast and easy, letting you focus on your content. It's also no-code by default, so no JavaScript knowledge is required unlike other templates!
+## Website
 
-️**Trusted by 250,000+ creators, teams, and organizations.** Highly customizable via the integrated **no-code, block-based website builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+All the relevant code and content for our lab's website are stored in this repository. You can access the live site at [https://placeholder.com](https://placeholder.com).
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/details/docs/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+### Built With
 
-[Check out the latest demo](https://hugo-docs-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+- **[Hugo Blox](https://hugoblox.com/templates/)** - Utilized for structuring the site's templates.
+- **[Hugo Static Site Generator](https://gohugo.io)** - Powers the website, transforming markdown content into a static website.
 
-The integrated [**Hugo Blox**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## Contribute to the Website
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/details/docs/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Academic File Converter](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+We encourage contributions from all lab members. If you would like to contribute, please fork the repository and submit a pull request with your proposed changes.
 
-## We ask you, humbly, to support this open source movement
+To contribute to this repository or set up a local version of the site for development purposes, please follow the instructions below.
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+### Prerequisites
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+Ensure you have Hugo installed on your machine. For installation instructions, visit [Hugo's Official Documentation](https://gohugo.io/getting-started/installing/).
 
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive_ templates and blox_](https://hugoblox.com/sponsor/)
+### Local Development
+1. **Clone the Repository**:
+   ```
+   git clone https://github.com/YourUsername/Gator-AIM-Lab.git
+   ```
+2. **Navigate to the Repository**:
+   ```
+   cd Gator-AIM-Lab
+   ```
+3. **Create or Edit Files in `content/`**
+
+4. **Build locally**:
+    ```
+    hugo server
+    ``` 
+    to build your site locally and preview the changes. Once you are satisfied with the updates, commit these changes locally.
+5. **Starting a Pull Request**:
+  Create a new branch in the repository for the commit and start a pull request. We will review your changes before merging them to the main branch. 
+
+
+All content is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). The HugoBlox Documentation Theme is licensed under the MIT License by [George Cushen](https://georgecushen.com/).
