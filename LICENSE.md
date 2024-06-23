@@ -1,18 +1,20 @@
 ## License
 
+### Content
+
 Unless otherwise stated, the content of this website is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.
 
-For more details about this license, please visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
+For more details about this license, please visit [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ### Code License
 
 The HugoBlox Documentation Theme is licensed under the MIT License by [George Cushen](https://georgecushen.com/):
 
-MIT License
+**MIT License**
 
-Copyright (c) [year] [copyright holder]
+Copyright (c) 2016-present George Cushen (https://georgecushen.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -31,4 +33,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
