@@ -17,7 +17,7 @@ This section provides essential advice and best practices for programming and wo
   {{< card url="wifi_network" title="WiFi Networks" icon="document-text" 
       subtitle="">}}
 
-  {{< card url="VPN" title="VPN" icon="document-text" 
+  {{< card url="vpn" title="VPN" icon="document-text" 
       subtitle="" >}}
   
 
