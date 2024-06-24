@@ -37,7 +37,22 @@ cascade:
     header:
       navbar:
         enable: true
-
+  - _target:
+      path: /team/**
+      kind: page
+    pager: false
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: false
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
 ############################
 ## LANGUAGE
 ############################
