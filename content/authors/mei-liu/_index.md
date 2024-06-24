@@ -21,7 +21,7 @@ organizations:
     url: 'https://hobi.med.ufl.edu/profile/liu-mei/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Liu's research interests lie in the development of advanced machine learning and artificial intelligence techniques for biomedical and medical informatics. 
+bio: My research focuses on the development of advanced machine learning and artificial intelligence techniques for biomedical and medical informatics. 
 
 interests:
   - Artificial Intelligence
