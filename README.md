@@ -4,7 +4,7 @@ Welcome to the official GitHub repository of the Gator-AIM Lab. This repository 
 
 ## Website
 
-All the relevant code and content for our lab's website are stored in this repository. You can access the live site at [https://placeholder.com](https://placeholder.com).
+All the relevant code and content for our lab's website are stored in this repository. You can access the live site at [https://gatoraim.com](https://gatoraim.com).
 
 ### Built With
 
