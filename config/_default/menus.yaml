@@ -12,6 +12,9 @@ main:
     url: people/
     weight: 30
   - name: Papers
+    url: readings/
+    weight: 40
+  - name: Publications
     url: pubs/
     weight: 40
     
