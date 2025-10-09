@@ -69,30 +69,27 @@ Partitions for interactive work include `hpg-dev`, `gpu`, and `hpg-ai`.
 
 ## BMI Resources Usage Guideline
 
-As members of Dr. Wu's research group (ID: 4014, [yonghui.wu]), we share significant computational resources across various labs within our division. Currently, we have:
+As members of Dr. Liu's research group, we share significant computational resources across various labs within our division. Currently, we have:
 
-- **CPUs**: 2570 units
-- **GPUs**: 300 units
-- **Memory**: 35 TB
+- **CPUs**: 180 units
+- **GPUs**: 20 units
+- **BlueStorage**: 12 TB
+- **OrangeStorage**: 10 TB
 
 To ensure fair and efficient use of these resources, please adhere to the following guidelines:
 
 ### Resource Registration and Usage
 
-- **Prior Registration**: Before submitting jobs that exceed the thresholds of 8 CPUs, 1 GPU, or 128 GB of memory for more than 3 hours, ensure to check and register your requirements on the [HPG usage table](https://docs.google.com/spreadsheets/d/1ZMgEGeWTPbycu4Bg6NmTzIUX4TtlBKTtov13cmwn3UM/edit?usp=drive_link).
-- **Resource Limits**: Do not reserve more than 64 CPUs, 500 GB of memory, or 4 GPUs for any single job without additional coordination.
+- **Prior Registration**: Before submitting jobs that exceed the thresholds of your fair share, ensure to check and register your requirements on the [HPG usage table](https://docs.google.com/spreadsheets/d/1LUdOL9_R0yxZwO809Nib37ZRa4T_sJ2fdPncNS9JEDM/edit?usp=sharing).
+- **Resource Limits**: Do not reserve more than 64 CPUs, 500 GB of memory, or 5 GPUs for any single job without additional coordination.
 - **Duration of Use**: Limit node reservations to no more than 7 days unless additional arrangements are made.
 
 ### Storage Usage
-- **Blue Storage**: Do not use more than 250 GB.
+- **Blue Storage**: Do not use more than 1 TB.
 - **Orange Storage**: Usage is capped at 1 TB.
-- **Storage Coordination**: Contact Aokun for further coordination if the remaining storage space in either Blue or Orange storage falls below 1 TB.
+- **Storage Coordination**: Contact Qi for further coordination if the remaining storage space in either Blue or Orange storage falls below 1 TB.
 
 <!--
 These rules are designed to promote equitable access and optimal use of shared resources. For additional information or to discuss coordination for exceptional cases, please reach out to the administrative contact.
 -->
 
-### Policy for Coordination
-
-- If you need more than 256 CPUs, 1 TB of memory, 16 GPUs, or require resources for more than 7 days, you must first send a request to Aokun Chen [📧](mailto:chenaokun1990@ufl.edu) or Xing He [📧](mailto:hexing@ufl.edu), with your supervisor cc’ed, to justify your need and obtain approval.
-  

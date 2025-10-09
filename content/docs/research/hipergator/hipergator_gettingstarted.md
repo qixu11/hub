@@ -9,7 +9,7 @@ GatorLink serves as an individual’s computer network identity at the Universit
 
 ## Register for an account
 
- Follow the instructions on the [HiPerGator Account Request](https://www.rc.ufl.edu/access/account-request/) page. Every new user of HiPerGator requires a faculty sponsor to register. The faculty sponsor for our group is Dr. Yonghui Wu [📧](mailto:yonghui.wu@ufl.edu). Before registering, please send an email to the lab administrator to inform Dr. Wu of your request.
+ Follow the instructions on the [HiPerGator Account Request](https://www.rc.ufl.edu/access/account-request/) page. Every new user of HiPerGator requires a faculty sponsor to register. The faculty sponsor for our group is Dr. Mei Liu [📧](mailto:mei.liu@ufl.edu). Before registering, please send an email to the lab administrator to inform Dr. Liu of your request.
 
 ## Login to HiPerGator
    - **Command Line Access**:

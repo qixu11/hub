@@ -9,8 +9,7 @@ This SOP outlines the procedures for accessing and utilizing the HiPerGator supe
 Applicable to all lab members, including postdocs, doctoral students, data scientists, master’s students, and temporary research assistants.
 
 ## Account Overview
-- **Group Faculty Sponsor**: Dr. Yonghui Wu
-- **Lab PI**: Dr. Mei Liu
+- **Group Faculty Sponsor**: Dr. Mei Liu
 - **Access**: Each member is granted individual access credentials which must be used in accordance with university policies, this SOP, and the [UF HOBI HiPerGator Usage Guidelines](https://github.com/uf-hobi-informatics-lab/hipergator_use_guideline/).
 
 ## Directory Structure and Usage
@@ -22,12 +21,12 @@ For detailed information on the directory structure and usage, please refer to t
   - **Access**: Private to each member.
   - **Space Limitation**: Storage space in this directory is limited. Do not store datasets here.
 
-- **Blue Directory (/yonghui.wu/blue/user_name)**
+- **Blue Directory (/mei.liu/blue/user_name)**
   - **Purpose**: For active research projects and fast-access data storage needs.
   - **Access**: Shared among all group members by default.
   - **Usage**: Store actively used data and project files in this directory. Ideal for data requiring high-speed access.
 
-- **Orange Directory (/yonghui.wu/orange/user_name)**
+- **Orange Directory (/mei.liu/orange/user_name)**
   - **Purpose**: For backups and less frequently accessed data.
   - **Access**: Shared among all group members by default.
   - **Usage**: Use this directory for backing up important files and storing large data not regularly accessed. Do not use it for data-intensive operations.

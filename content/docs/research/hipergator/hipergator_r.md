@@ -68,6 +68,6 @@ This will remove all outputs from the R Markdown file, ensuring that only the co
 
 - **Using the Command Line**:  For a command-line approach, particularly useful for automating the process or clearing multiple R Markdown files at once, you can use a script to render the R Markdown without output:
 ```
-Rscript -e "rmarkdown::render('/Users/qixu/Desktop/aa.Rmd', clean = TRUE)"
+Rscript -e "rmarkdown::render('/user_name/aa.Rmd', clean = TRUE)"
 ```
 This command will render the R Markdown file and remove intermediate files, effectively clearing the outputs and ensuring that the document is ready for sharing without revealing sensitive information.
