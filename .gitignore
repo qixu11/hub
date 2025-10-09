@@ -8,3 +8,8 @@
 resources/
 public/
 jsconfig.json
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
