@@ -12,6 +12,12 @@ summary: Explore the latest research contributions from the Gator-AIM Lab, featu
 
 - **Li D, Shukla A, Chandaka S, Taylor B, Xu J, Liu M.** *Autoencoder-based representation learning for similar patient retrieval from electronic health records: comparative study.* **JMIR Medical Informatics.** 2025;13:e68830. [doi:10.2196/68830](https://doi.org/10.2196/68830)
 
+- **Chen H, Huang Y, Yin C, He X, Ison RL, Bell LL, Opoku RA, Jiang Z, Guo SJ, Liu M, Tighe PJ.** *Care coordination and patient safety outcome: a graph-based approach.* **npj Health Systems.** 2025 May 8;2(1):15. [doi:10.1038/s44401-025-00020-9](https://doi.org/10.1038/s44401-025-00020-9)
+- 
+
+- **Chen H, Li X, He X, Chen A, McGill J, Webber EC, Xu H, Liu M, Bian J.** *Enhancing Patient-Trial Matching With Large Language Models: A Scoping Review of Emerging Applications and Approaches.* **JCO Clinical Cancer Informatics.** 2025 Jun;9:e2500071. [doi:10.1200/CCI-25-00071](https://ascopubs.org/doi/10.1200/CCI-25-00071)
+
+
 - **Duan L, Zhou W, Hu Y, Xu L, Liu M.** *Early detection of adverse drug reactions in postmarket monitoring.* **INFORMS Journal on Computing.** 2025;0(0). [doi:10.1287/ijoc.2024.0585](https://doi.org/10.1287/ijoc.2024.0585)
 
 - **Li D, Chan HY, Yu ASL, et al.** *Clustering analysis of multi-site electronic health records reveals distinct subphenotypes in stage-1 acute kidney injury.* **Communications Medicine.** 2025;5:274. [doi:10.1038/s43856-025-00993-6](https://doi.org/10.1038/s43856-025-00993-6)
