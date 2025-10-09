@@ -9,6 +9,7 @@ reading_time: false
 {{< /cards >}}
 ### Researcher
 {{< cards >}}
+    {{< card url="/team/piyushchaudhari" title="Chaudhari, Piyush" icon="academic-cap">}}
     {{< card url="/team/hongyuchen" title="Chen, Hongyu" icon="academic-cap">}}
     {{< card url="/team/deyili" title="Li, Deyi (Eric)" icon="academic-cap">}}
     {{< card url="/team/zijianxu" title="Xu, Zijian" icon="academic-cap">}}
