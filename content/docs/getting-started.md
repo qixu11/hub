@@ -14,7 +14,7 @@ To help you settle in, follow this onboarding checklist:
 
 ### Getting to Know our People
 
-To learn more about the amazing team members you'll be working with, visit the [People](/people/) on our website.
+To learn more about the amazing team members you'll be working with, visit the [Members](/people/) on our website.
 
 ### Seting Up Workstation
 
