@@ -5,7 +5,6 @@ summary: Explore the latest research contributions from the Gator-AIM Lab, featu
 
 ### 2025 Publications
 
-
 - **Zhang B, Wu Q, Jhaveri R, Zhou T, Becich MJ, Bisyuk Y, Blanceró F, Chrischilles EA, Chuang CH, Cowell LG, Fort D, et al.** *Long COVID associated with SARS-CoV-2 reinfection among children and adolescents in the omicron era (RECOVER-EHR): a retrospective cohort study.* **The Lancet Infectious Diseases.** 2025 Sep 30. [doi:10.1016/S1473-3099(25)00476-1](https://doi.org/10.1016/S1473-3099(25)00476-1)
 
 - **Li D, Yu AS, Fuhrman DY, Liu M.** *SMART: a new patient similarity estimation framework for enhanced predictive modeling in acute kidney injury.* **Journal of the American Medical Informatics Association.** 2025 Aug 8; ocaf125. [doi:10.1093/jamia/ocaf125](https://doi.org/10.1093/jamia/ocaf125)
