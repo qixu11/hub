@@ -5,13 +5,21 @@ summary: Explore the pivotal research papers our team studies and discusses in o
 
 ## Journal Club
 
-In our weekly team meetings, we host a journal club where each lab member is expected to present a research paper in turn. This forum encourages critical thinking and keeps our team updated on recent advancements in the field. Below are some of the papers previously presented by our members:
+In our weekly team meetings, we host a journal club where each lab member is expected to present a research paper in turn. This forum encourages critical thinking and keeps our team updated on recent advancements in the field. Below is our tentative list for the **next journal club rotation**. We’ll pull from these items in order; presenters can swap as needed.
 
-- **Richens JG, Lee CM, Johri S.** *Improving the accuracy of medical diagnosis with causal machine learning.* Nature Communications. 2020;11(1). [doi:10.1038/s41467-020-17419-7](https://doi.org/10.1038/s41467-020-17419-7)
-- **Grolleau F, Petit F, Gaudry S, et al.** *Personalizing renal replacement therapy initiation in the intensive care unit: a reinforcement learning-based strategy with external validation on the AKIKI randomized controlled trials.* Journal of the American Medical Informatics Association. 2024;31(5):1074-1083. [doi:10.1093/jamia/ocae004](https://doi.org/10.1093/jamia/ocae004)
-- **Pan HC, Chen HY, Teng NC, et al.** *Recovery Dynamics and Prognosis after Dialysis for Acute Kidney Injury.* JAMA Network Open. 2024;7(3):E240351. [doi:10.1001/jamanetworkopen.2024.0351](https://doi.org/10.1001/jamanetworkopen.2024.0351)
-- **Yang J, Soltan AAS, Eyre DW, Yang Y, Clifton DA.** *An adversarial training framework for mitigating algorithmic biases in clinical machine learning.* npj Digital Medicine. 2023;6(1). [doi:10.1038/s41746-023-00805-y](https://doi.org/10.1038/s41746-023-00805-y)
-- **Dutta S, McEvoy DS, Dunham LN, et al.** *External Validation of a Commercial Acute Kidney Injury Predictive Model.* NEJM AI. 2024;1(3). [doi:10.1056/aioa2300099](https://doi.org/10.1056/aioa2300099)
+| **Category** | **Paper** | **Reason** |
+| :-- | :-- | :-- |
+| **1. Architectural Foundations** | *The Annotated Transformer* | A clear and accessible explanation of the Transformer architecture; easier to follow than the original paper. |
+|  | *Neural Machine Translation by Jointly Learning to Align and Translate* (Bahdanau et al., 2015) | The origin of the attention mechanism, which inspired the Transformer. |
+|  | *Identity Mappings in Deep Residual Networks* (He et al., 2016) | Introduced residual connections that stabilize deep network training. |
+| **2. Scaling and Efficient Training** | *GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism* | A key solution for large-scale distributed training. |
+|  | *Better & Faster Large Language Models via Multi-token Prediction* (DeepMind, 2024) | A new-generation paradigm for efficient language modeling (predicting multiple tokens). |
+| **3. Representation and Multimodal Learning** | *CLIP: Learning Transferable Visual Models from Natural Language Supervision* | A groundbreaking multimodal framework that directly influenced GPT-4V and Gemini models. |
+| **4. Knowledge Augmentation and Alignment** | *Reinforcement Learning from Human Feedback (RLHF)* | A core technique for aligning LLMs with human preferences, combining SFT, reward modeling, and RL (e.g., PPO). |
+|  | *Retrieval-Augmented Generation (RAG)* | Key mechanism for combining retrieval and generative models. |
+| **5. Alignment and Behavior Understanding** | *Zephyr: Direct Distillation of LM Alignment* | Lightweight distillation method for alignment, an important step after RLHF. |
+|  | *Lost in the Middle: How Language Models Use Long Contexts* | Empirical study showing that long-context models mainly focus on the beginning and end of input windows. |
+
   
 ## Paper Reading List
 
