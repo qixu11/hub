@@ -14,10 +14,12 @@ In our weekly team meetings, we host a journal club where each lab member is exp
 |  | *Identity Mappings in Deep Residual Networks* (He et al., 2016) | Introduced residual connections that stabilize deep network training. |
 | **2. Scaling and Efficient Training** | *GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism* | A key solution for large-scale distributed training. |
 |  | *Better & Faster Large Language Models via Multi-token Prediction* (DeepMind, 2024) | A new-generation paradigm for efficient language modeling (predicting multiple tokens). |
+|  | *Mamba: Linear-Time Sequence Modeling with Selective State Spaces* (Gu & Dao, 2023) | A state-space model achieving efficient long-sequence processing, offering an alternative to Transformer architectures. |
 | **3. Representation and Multimodal Learning** | *CLIP: Learning Transferable Visual Models from Natural Language Supervision* | A groundbreaking multimodal framework that directly influenced GPT-4V and Gemini models. |
 | **4. Knowledge Augmentation and Alignment** | *Reinforcement Learning from Human Feedback (RLHF)* | A core technique for aligning LLMs with human preferences, combining SFT, reward modeling, and RL (e.g., PPO). |
 |  | *Retrieval-Augmented Generation (RAG)* | Key mechanism for combining retrieval and generative models. |
 | **5. Alignment and Behavior Understanding** | *Zephyr: Direct Distillation of LM Alignment* | Lightweight distillation method for alignment, an important step after RLHF. |
+|  | *Direct Preference Optimization: Your Language Model is Secretly a Reward Model* (Rafailov et al., 2023) | Simplifies alignment by directly optimizing model outputs using preference data, bypassing explicit reward modeling. |
 |  | *Lost in the Middle: How Language Models Use Long Contexts* | Empirical study showing that long-context models mainly focus on the beginning and end of input windows. |
 
   
