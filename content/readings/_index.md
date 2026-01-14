@@ -5,22 +5,35 @@ summary: Explore the pivotal research papers our team studies and discusses in o
 
 ## Journal Club
 
-In our weekly team meetings, we host a journal club where each lab member is expected to present a research paper in turn. This forum encourages critical thinking and keeps our team updated on recent advancements in the field. Below is our tentative list for the **next journal club rotation**. We’ll pull from these items in order; presenters can swap as needed.
+In our weekly team meetings, we host a journal club where each lab member is expected to present a research paper in turn. This forum encourages critical thinking and keeps our team updated on recent advancements in the field. Below is our **current journal club rotation schedule**, organized by date and topic. 
 
-| **Category** | **Paper** | **Reason** |
-| :-- | :-- | :-- |
-| **1. Architectural Foundations** | *The Annotated Transformer* | A clear and accessible explanation of the Transformer architecture; easier to follow than the original paper. |
-|  | *Neural Machine Translation by Jointly Learning to Align and Translate* (Bahdanau et al., 2015) | The origin of the attention mechanism, which inspired the Transformer. |
-|  | *Identity Mappings in Deep Residual Networks* (He et al., 2016) | Introduced residual connections that stabilize deep network training. |
-| **2. Scaling and Efficient Training** | *GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism* | A key solution for large-scale distributed training. |
-|  | *Better & Faster Large Language Models via Multi-token Prediction* (DeepMind, 2024) | A new-generation paradigm for efficient language modeling (predicting multiple tokens). |
-|  | *Mamba: Linear-Time Sequence Modeling with Selective State Spaces* (Gu & Dao, 2023) | A state-space model achieving efficient long-sequence processing, offering an alternative to Transformer architectures. |
-| **3. Representation and Multimodal Learning** | *CLIP: Learning Transferable Visual Models from Natural Language Supervision* | A groundbreaking multimodal framework that directly influenced GPT-4V and Gemini models. |
-| **4. Knowledge Augmentation and Alignment** | *Reinforcement Learning from Human Feedback (RLHF)* | A core technique for aligning LLMs with human preferences, combining SFT, reward modeling, and RL (e.g., PPO). |
-|  | *Retrieval-Augmented Generation (RAG)* | Key mechanism for combining retrieval and generative models. |
-| **5. Alignment and Behavior Understanding** | *Zephyr: Direct Distillation of LM Alignment* | Lightweight distillation method for alignment, an important step after RLHF. |
-|  | *Direct Preference Optimization: Your Language Model is Secretly a Reward Model* (Rafailov et al., 2023) | Simplifies alignment by directly optimizing model outputs using preference data, bypassing explicit reward modeling. |
-|  | *Lost in the Middle: How Language Models Use Long Contexts* | Empirical study showing that long-context models mainly focus on the beginning and end of input windows. |
+| **Date** | **Category** | **Topic** | **Paper** |
+| :-- | :-- | :-- | :-- |
+| 26-Jan | LLM post-training | SFT | *Instruction Tuning for Large Language Models: A Survey* |
+| 2-Feb | LLM post-training | PEFT 1: LoRA | *LoRA: Low-Rank Adaptation of Large Language Models* |
+| 9-Feb | LLM post-training | PEFT 2: QLoRA | *QLoRA: Efficient Finetuning of Quantized LLMs* |
+| 16-Feb | LLM post-training | RLHF 1: RL basics | *Dynamic Programming Principles* |
+| 23-Feb | LLM post-training | RLHF 2: DPO | *Direct Preference Optimization: Your Language Model is Secretly a Reward Model* |
+| 2-Mar | LLM post-training | RLHF 3: PPO | *Proximal Policy Optimization Algorithms* |
+| 9-Mar | LLM post-training | RLHF 4: GRPO | *DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models* |
+| 23-Mar | LLM application | RAG 1: Basics | *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks* |
+| 30-Mar | LLM application | RAG 2: Advancements | *Retrieval-Augmented Generation for Large Language Models: A Survey* |
+| 6-Apr | LLM application | RAG 3: GraphRAG | *From Local to Global: A Graph RAG Approach to Query-Focused Summarization* |
+| 13-Apr | LLM application | Agent 1: Overview | *Large Language Model Agent: A Survey on Methodology, Applications and Challenges* |
+| 20-Apr | LLM application | Agent 2: Planning | *Tree of Thoughts: Deliberate Problem Solving with Large Language Models* |
+| 27-Apr | LLM application | Agent 3: Planning | *ReAct: Synergizing Reasoning and Acting in Language Models* |
+| 4-May | LLM application | Agent 4: Planning | *Reflexion: Language Agents with Verbal Reinforcement Learning* |
+| 11-May | LLM application | Agent 5: Memory | *Generative Agents: Interactive Simulacra of Human Behavior* |
+| 18-May | LLM application | Agent 6: Memory | *MemGPT: Towards LLMs as Operating Systems* |
+| 1-Jun | LLM application | Agent 7: Tool | *Toolformer: Language Models Can Teach Themselves to Use Tools* |
+| 8-Jun | LLM application | Agent 8: Tool | *Gorilla: Large Language Model Connected with Massive APIs* |
+| 15-Jun | LLM application | Agent 9: Tool | *HuggingGPT: Solving AI Tasks with ChatGPT and Its Friends* |
+| 22-Jun | LLM application | Agent 10: Multi-Agent Systems | *Generative Agents: Interactive Simulacra of Human Behavior* |
+| 29-Jun | LLM application | Agent 11: Multi-Agent Systems | *CAMEL: Communicative Agents for “Mind” Exploration* |
+| 6-Jul | LLM application | Agent 12: Multi-Agent Systems | *MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework* |
+| 13-Jul | LLM application | Agent 13: Multi-Agent Systems | *AutoGen: Enabling Next-Gen LLM Applications* |
+| 20-Jul | LLM application | Agent 14: Multi-Agent Systems | *ChatDev: Communicative Agents for Software Development* |
+| 27-Jul | LLM application | Agent 15: Multi-Agent Systems | *AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors* |
 
   
 ## Paper Reading List
