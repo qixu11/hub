@@ -25,15 +25,15 @@ In our weekly team meetings, we host a journal club where each lab member is exp
 | 4-May | LLM application | Agent 4: Planning | *Reflexion: Language Agents with Verbal Reinforcement Learning* |
 | 11-May | LLM application | Agent 5: Memory | *Generative Agents: Interactive Simulacra of Human Behavior* |
 | 18-May | LLM application | Agent 6: Memory | *MemGPT: Towards LLMs as Operating Systems* |
-| 1-Jun | LLM application | Agent 7: Tool | *Toolformer: Language Models Can Teach Themselves to Use Tools* |
-| 8-Jun | LLM application | Agent 8: Tool | *Gorilla: Large Language Model Connected with Massive APIs* |
-| 15-Jun | LLM application | Agent 9: Tool | *HuggingGPT: Solving AI Tasks with ChatGPT and Its Friends* |
-| 22-Jun | LLM application | Agent 10: Multi-Agent Systems | *Generative Agents: Interactive Simulacra of Human Behavior* |
-| 29-Jun | LLM application | Agent 11: Multi-Agent Systems | *CAMEL: Communicative Agents for “Mind” Exploration* |
-| 6-Jul | LLM application | Agent 12: Multi-Agent Systems | *MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework* |
-| 13-Jul | LLM application | Agent 13: Multi-Agent Systems | *AutoGen: Enabling Next-Gen LLM Applications* |
-| 20-Jul | LLM application | Agent 14: Multi-Agent Systems | *ChatDev: Communicative Agents for Software Development* |
-| 27-Jul | LLM application | Agent 15: Multi-Agent Systems | *AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors* |
+| 31-Aug | LLM application | Agent 7: Tool | *Toolformer: Language Models Can Teach Themselves to Use Tools* |
+| 8-Sep | LLM application | Agent 8: Tool | *Gorilla: Large Language Model Connected with Massive APIs* |
+| 14-Sep | LLM application | Agent 9: Tool | *HuggingGPT: Solving AI Tasks with ChatGPT and Its Friends* |
+| 21-Sep | LLM application | Agent 10: Multi-Agent Systems | *Generative Agents: Interactive Simulacra of Human Behavior* |
+| 30-Sep | LLM application | Agent 11: Multi-Agent Systems | *CAMEL: Communicative Agents for “Mind” Exploration* |
+| 5-Oct | LLM application | Agent 12: Multi-Agent Systems | *MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework* |
+| 12-Oct | LLM application | Agent 13: Multi-Agent Systems | *AutoGen: Enabling Next-Gen LLM Applications* |
+| 26-Oct | LLM application | Agent 14: Multi-Agent Systems | *ChatDev: Communicative Agents for Software Development* |
+| 2-Nov | LLM application | Agent 15: Multi-Agent Systems | *AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors* |
 
   
 ## Paper Reading List
