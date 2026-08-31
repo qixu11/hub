@@ -34,6 +34,9 @@ In our weekly team meetings, we host a journal club where each lab member is exp
 | 12-Oct | LLM application | Agent 13: Multi-Agent Systems | *AutoGen: Enabling Next-Gen LLM Applications* |
 | 26-Oct | LLM application | Agent 14: Multi-Agent Systems | *ChatDev: Communicative Agents for Software Development* |
 | 2-Nov | LLM application | Agent 15: Multi-Agent Systems | *AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors* |
+| 16-Nov | Causal learning | Causal 1: Causal representation learning | *Towards Causal Representation Learning* |
+| 30-Nov | Causal learning | Causal 2: Counterfactual prediction | *Causal Transformer for Estimating Counterfactual Outcomes* |
+
 
   
 ## Paper Reading List
