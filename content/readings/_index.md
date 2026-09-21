@@ -28,7 +28,7 @@ In our weekly team meetings, we host a journal club where each lab member is exp
 | 31-Aug | LLM application | Agent 7: Tool | *Toolformer: Language Models Can Teach Themselves to Use Tools* |
 | 8-Sep | LLM application | Agent 8: Tool | *Gorilla: Large Language Model Connected with Massive APIs* |
 | 14-Sep | LLM application | Agent 9: Tool | *HuggingGPT: Solving AI Tasks with ChatGPT and Its Friends* |
-| 21-Sep | LLM application | Agent 10: Multi-Agent Systems | *Generative Agents: Interactive Simulacra of Human Behavior* |
+| 21-Sep | LLM application | Agent 10: Multi-Agent Systems | *Mixture-of-Agents: Enhancing Large Language Model Capabilities* |
 | 30-Sep | LLM application | Agent 11: Multi-Agent Systems | *CAMEL: Communicative Agents for “Mind” Exploration* |
 | 5-Oct | LLM application | Agent 12: Multi-Agent Systems | *MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework* |
 | 12-Oct | LLM application | Agent 13: Multi-Agent Systems | *AutoGen: Enabling Next-Gen LLM Applications* |
